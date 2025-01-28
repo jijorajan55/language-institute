@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/language-institute/static/css/main.87a3aaa8.css",
-    "main.js": "/language-institute/static/js/main.082e5517.js",
-    "static/js/156.830f15f8.chunk.js": "/language-institute/static/js/156.830f15f8.chunk.js",
+    "main.js": "/language-institute/static/js/main.4f5d0222.js",
+    "static/js/488.e92bca29.chunk.js": "/language-institute/static/js/488.e92bca29.chunk.js",
     "static/media/caregiver.jpg": "/language-institute/static/media/caregiver.7cc0515c01edfb43272c.jpg",
     "static/media/lawyer.jpg": "/language-institute/static/media/lawyer.243c4ce3d341b68c7321.jpg",
     "static/media/hero-image.jpg": "/language-institute/static/media/hero-image.ea645d93ff440d408250.jpg",
     "static/media/Support.jpg": "/language-institute/static/media/Support.752517e9b6439c57c157.jpg",
-    "static/media/placement-image.jpg": "/language-institute/static/media/placement-image.716864ba43886209ca52.jpg",
     "static/media/doctor.jpg": "/language-institute/static/media/doctor.ff791b454c6fa465ac5c.jpg",
+    "static/media/contactus.jpg": "/language-institute/static/media/contactus.646af2b6847d25fbac83.jpg",
     "static/media/whatsapp.jpg": "/language-institute/static/media/whatsapp.766557118ca286515df8.jpg",
     "static/media/whatsapp-icon.png": "/language-institute/static/media/whatsapp-icon.fec51376b03ed96ed284.png",
     "static/media/logo.png": "/language-institute/static/media/logo.a34286c569221fdeabcd.png",
     "index.html": "/language-institute/index.html",
     "main.87a3aaa8.css.map": "/language-institute/static/css/main.87a3aaa8.css.map",
-    "main.082e5517.js.map": "/language-institute/static/js/main.082e5517.js.map",
-    "156.830f15f8.chunk.js.map": "/language-institute/static/js/156.830f15f8.chunk.js.map"
+    "main.4f5d0222.js.map": "/language-institute/static/js/main.4f5d0222.js.map",
+    "488.e92bca29.chunk.js.map": "/language-institute/static/js/488.e92bca29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87a3aaa8.css",
-    "static/js/main.082e5517.js"
+    "static/js/main.4f5d0222.js"
   ]
 }
